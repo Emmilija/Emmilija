@@ -13,4 +13,6 @@
 - 📫 You can connect me at: https://www.linkedin.com/in/emilija-karatashevska-0b117925a/  
     
     
-
+### Languages and tools
+- https://www.w3.org/html/
+- https://www.w3schools.com/css/
