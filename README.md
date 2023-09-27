@@ -16,3 +16,6 @@
 ### Languages and tools
 - https://www.w3.org/html/
 - https://www.w3schools.com/css/
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emmilija&theme=dark&show_icons=true)
